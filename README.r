@@ -8,6 +8,3 @@ Version = "Rstudio~ in writting"
 
 print(name)
 print("these lines are written in R")
-
-
-
